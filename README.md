@@ -1,7 +1,6 @@
 # bitburner-auto-scripts
-## some bitburner auto scripts
 ## 脚本使用指南
-- 1、下载sky-installer.js到home目录下，并执行 run sky-installer.js
+- 1、下载installer.js到home目录下，并执行 run installer.js
 - 2、待所有脚本安装完成后，便可进行使用
 
 ## 目前支持的命令
