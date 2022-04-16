@@ -1,7 +1,8 @@
 # bitburner-auto-scripts
 ## 脚本使用指南
-- 1、下载installer.js到home目录下，并执行 run installer.js
-- 2、待所有脚本安装完成后，便可进行使用
+- 1、执行指令`wget "https://github.com/huige233/bitburner-auto-scripts/blob/main/src" installer.js`
+- 2、下载installer.js到home目录下，并执行 run installer.js
+- 3、待所有脚本安装完成后，便可进行使用
 
 ## 目前支持的命令
 - [ run /tools/scan-deploy-normal-hack.js ] 自动扫描当前所有服务器，并对当前可攻击的服务器，依次部署normal-hack.js脚本，然后展开攻击，该命令适用于转生早期，不适用于高手。    
