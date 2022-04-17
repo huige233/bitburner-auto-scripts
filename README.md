@@ -1,6 +1,6 @@
 # bitburner-auto-scripts
 ## 脚本使用指南
-- 1、执行指令`wget "https://github.com/huige233/bitburner-auto-scripts/blob/main/src" installer.js`
+- 1、执行指令`wget "https://https://raw.githubusercontent.com/huige233/bitburner-auto-scripts/blob/main/src" installer.js`
 - 2、下载installer.js到home目录下，并执行 run installer.js
 - 3、待所有脚本安装完成后，便可进行使用
 
